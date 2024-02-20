@@ -1,0 +1,57 @@
+body{
+    text-align: center;
+    font-family: 'Playfair Display', serif;
+    background-color: #1a1a1a;
+    color: white;
+}
+h1{
+    font-family: 'Honk',system-ui; ;
+}
+.btn-container-1 > div {
+    height: 150px;
+    width: 150px;
+    border: 2px dotted black;
+    border-radius: 1rem;
+    margin: 1rem;
+}
+.btn-container-2 > div{
+    height: 150px;
+    width: 150px;
+    border: 2px dotted black;
+    border-radius: 1rem;
+    margin: 1rem;
+}
+
+#container{
+    display: flex;
+    justify-content: center;
+}
+
+.red{
+    background-color: #e01e37;
+}
+.yellow{
+    background-color: #ffd60a;
+}
+.green{
+    background-color: #70e000;
+}
+.blue{
+    background-color: #4361ee;
+}
+
+.flash{
+    background-color: white;
+    
+}
+
+.userflash{
+    background-color: black;
+}
+.body{
+    background-color: red;
+}
+
+#precent{
+    font-size: x-large;
+}
